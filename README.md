@@ -1,2 +1,2 @@
-# pcd-ann
-Identifikasi Penyakit Tanaman
+# Artificial Neural Networks - identification plant diseases 
+a project on digital image processing for the identification of corn or maize leaf diseases using Artificial Neural Networks (ANN). It includes a dataset specifically designed for this purpose. The project aims to develop an efficient system that can accurately classify and diagnose various diseases affecting corn or maize plants based on images of their leaves. The implementation utilizes ANN techniques for image feature extraction and disease classification. The repository provides the necessary code, documentation, and resources to train and evaluate the ANN model for disease identification in corn or maize plants.
